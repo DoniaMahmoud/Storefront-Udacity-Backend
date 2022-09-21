@@ -1,18 +1,3 @@
-# Environment variables
-
-PORT=3000
-NODE_ENV=dev
-DB_HOST=localhost
-POSTGRES_USER=postgres
-POSTGRES_PASSWORD=123456789
-POSTGRES_DB=store_dev
-POSTGRES_DBPort=5432
-POSTGRES_DB_Test=store_test
-
-PEPPER=volleyballislife
-SALT=10
-SECRET_TOKEN=i-love-mango
-
 # Scripts
 
 yarn => to install all dependencies
