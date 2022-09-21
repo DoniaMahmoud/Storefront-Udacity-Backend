@@ -1,15 +1,15 @@
 # Scripts
 
-yarn => to install all dependencies
-psql -U postgres
-create database store_dev
-create database store_test
-db-migrate up => to run all up migrations and create db schema
-yarn dev => to run the api on developement database
-yarn test => to run the on testing database & run test units
-yarn build
-yarn prettier
-yarn lint
+### yarn => to install all dependencies;
+### psql -U postgres;
+### create database store_dev;
+### create database store_test;
+### db-migrate up => to run all up migrations and create db schema;
+### yarn dev => to run the api on developement database;
+### yarn test => to run the on testing database & run test units;
+### yarn build;
+### yarn prettier;
+### yarn lint;
 
 # Backend port = 3000
 
