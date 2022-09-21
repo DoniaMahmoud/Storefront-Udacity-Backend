@@ -11,9 +11,9 @@
 ##### yarn prettier;
 ##### yarn lint;
 
-# Backend port = 3000
+## Backend port = 3000
 
-# Database port = 5432
+## Database port = 5432
 
 # Storefront Backend Project
 
